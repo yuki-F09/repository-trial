@@ -6,3 +6,4 @@ git commit --amendで直前のコミットに変更を加える
 ---commit1---
 
 commit 2
+commit 3   1-3をひとまとめにする
